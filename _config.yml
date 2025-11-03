@@ -4,3 +4,10 @@ theme: just-the-docs
 
 url: "https://howieguan0.github.io"
 baseurl: "/HowieWiki"
+
+defaults:
+  - scope:
+      path: ""        # all files
+      type: "pages"
+    values:
+      layout: "default"
