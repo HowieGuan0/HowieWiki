@@ -1,11 +1,6 @@
 title: "HowieWiki"
-description: "A personal knowledge base by Howie Guan"
-remote_theme: just-the-docs/just-the-docs
-plugins:
-  - jekyll-remote-theme
+description: "Personal knowledge base by Howie Guan"
+theme: just-the-docs
 
-url: "https://howieguan0.github.io/HowieWiki"
-
-aux_links:
-  "GitHub Repository":
-    - "//github.com/howieguan0/HowieWiki"
+url: "https://howieguan0.github.io"
+baseurl: "/HowieWiki"
