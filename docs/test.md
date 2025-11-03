@@ -1,7 +1,7 @@
 ---
 title: Test
 nav_order: 2
-layout: home
+layout: default
 ---
 
 # Test
