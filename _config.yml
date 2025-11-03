@@ -1,8 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+title: "HowieWiki"
+description: "A personal knowledge base by Howie Guan"
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
 
-url: https://just-the-docs.github.io
+url: "https://howieguan0.github.io/HowieWiki"
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "GitHub Repository":
+    - "//github.com/howieguan0/HowieWiki"
