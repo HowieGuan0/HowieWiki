@@ -1,7 +1,7 @@
 ---
 title: Test
 nav_order: 2
-parent: Home   
+layout: home
 ---
 
 # Test
